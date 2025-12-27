@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net6.0</TargetFrameworks>
+    <RootNamespace>PhantomExe.Protector</RootNamespace>
+    <!-- ✅ CRITICAL: Disable auto-include ONLY if you need explicit control -->
+    <!-- <EnableDefaultCompileItems>false</EnableDefaultCompileItems> -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="dnlib" Version="3.6.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <ProjectReference Include="..\Shared\PhantomExe.Shared.csproj" />
+    <ProjectReference Include="..\Stub\PhantomExe.Stub.csproj" />
+  </ItemGroup>
+
+  <!-- ✅ TFM-Specific Core references ONLY -->
+  <ItemGroup Condition="'$(TargetFramework)' == 'netstandard2.0'">
+    <ProjectReference Include="..\Core\netstandard2.0\PhantomExe.VM.Core.netstandard2.0.csproj" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'net6.0'">
+    <ProjectReference Include="..\Core\net6.0\PhantomExe.VM.Core.net6.0.csproj" />
+  </ItemGroup>
+</Project>

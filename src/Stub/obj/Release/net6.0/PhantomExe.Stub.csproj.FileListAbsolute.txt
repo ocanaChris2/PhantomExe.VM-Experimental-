@@ -1,0 +1,15 @@
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\bin\Release\net6.0\PhantomExe.Stub.deps.json
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\bin\Release\net6.0\PhantomExe.Stub.dll
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\bin\Release\net6.0\PhantomExe.Stub.pdb
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\bin\Release\net6.0\PhantomExe.Shared.dll
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\bin\Release\net6.0\PhantomExe.Shared.pdb
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\obj\Release\net6.0\PhantomExe.Stub.csproj.AssemblyReference.cache
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\obj\Release\net6.0\PhantomExe.Stub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\obj\Release\net6.0\PhantomExe.Stub.AssemblyInfoInputs.cache
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\obj\Release\net6.0\PhantomExe.Stub.AssemblyInfo.cs
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\obj\Release\net6.0\PhantomExe.Stub.csproj.CoreCompileInputs.cache
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\obj\Release\net6.0\PhantomE.A0A3D916.Up2Date
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\obj\Release\net6.0\PhantomExe.Stub.dll
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\obj\Release\net6.0\refint\PhantomExe.Stub.dll
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\obj\Release\net6.0\PhantomExe.Stub.pdb
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Stub\obj\Release\net6.0\ref\PhantomExe.Stub.dll

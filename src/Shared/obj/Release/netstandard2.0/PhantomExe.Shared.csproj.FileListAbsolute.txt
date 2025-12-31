@@ -1,0 +1,10 @@
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Shared\bin\Release\netstandard2.0\PhantomExe.Shared.deps.json
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Shared\bin\Release\netstandard2.0\PhantomExe.Shared.dll
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Shared\bin\Release\netstandard2.0\PhantomExe.Shared.pdb
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Shared\obj\Release\netstandard2.0\PhantomExe.Shared.csproj.AssemblyReference.cache
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Shared\obj\Release\netstandard2.0\PhantomExe.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Shared\obj\Release\netstandard2.0\PhantomExe.Shared.AssemblyInfoInputs.cache
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Shared\obj\Release\netstandard2.0\PhantomExe.Shared.AssemblyInfo.cs
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Shared\obj\Release\netstandard2.0\PhantomExe.Shared.csproj.CoreCompileInputs.cache
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Shared\obj\Release\netstandard2.0\PhantomExe.Shared.dll
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Shared\obj\Release\netstandard2.0\PhantomExe.Shared.pdb

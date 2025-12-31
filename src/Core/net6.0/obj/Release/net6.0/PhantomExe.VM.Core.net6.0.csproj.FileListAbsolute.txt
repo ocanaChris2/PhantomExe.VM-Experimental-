@@ -1,0 +1,15 @@
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\bin\Release\net6.0\PhantomExe.VM.Core.net6.0.deps.json
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\bin\Release\net6.0\PhantomExe.VM.Core.net6.0.dll
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\bin\Release\net6.0\PhantomExe.VM.Core.net6.0.pdb
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\bin\Release\net6.0\PhantomExe.Shared.dll
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\bin\Release\net6.0\PhantomExe.Shared.pdb
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\obj\Release\net6.0\PhantomExe.VM.Core.net6.0.csproj.AssemblyReference.cache
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\obj\Release\net6.0\PhantomExe.VM.Core.net6.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\obj\Release\net6.0\PhantomExe.VM.Core.net6.0.AssemblyInfoInputs.cache
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\obj\Release\net6.0\PhantomExe.VM.Core.net6.0.AssemblyInfo.cs
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\obj\Release\net6.0\PhantomExe.VM.Core.net6.0.csproj.CoreCompileInputs.cache
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\obj\Release\net6.0\PhantomE.D59B29CE.Up2Date
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\obj\Release\net6.0\PhantomExe.VM.Core.net6.0.dll
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\obj\Release\net6.0\refint\PhantomExe.VM.Core.net6.0.dll
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\obj\Release\net6.0\PhantomExe.VM.Core.net6.0.pdb
+C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\net6.0\obj\Release\net6.0\ref\PhantomExe.VM.Core.net6.0.dll

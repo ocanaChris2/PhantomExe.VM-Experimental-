@@ -1,0 +1,8 @@
+<!-- Directory.Build.props -->
+<Project>
+  <PropertyGroup>
+    <LangVersion>12.0</LangVersion> <!-- ✅ net8.0 requires C# 12 -->
+    <Nullable>enable</Nullable>
+    <NoWarn>NU1603;CA1416;NU1903</NoWarn>
+  </PropertyGroup>
+</Project>

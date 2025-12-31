@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = PhantomExe.Core
+build_property.ProjectDir = C:\Users\fake_\OneDrive\Escritorio\PhantomExe.VM\src\Core\netstandard2.0\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

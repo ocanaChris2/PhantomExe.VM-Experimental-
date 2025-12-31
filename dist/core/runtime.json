@@ -1,0 +1,12 @@
+﻿{
+  "runtime": {
+    "legacy": "PhantomExe.Core.legacy.dll",
+    "modern": "PhantomExe.Core.modern.dll",
+    "stub": "PhantomExe.Stub.dll"
+  },
+  "build": {
+    "date": "2025-12-27 11:28:32",
+    "config": "Release",
+    "architecture": "win-x64"
+  }
+}
